@@ -1,0 +1,9 @@
+Database name:samplelogin
+table name: userinfo
+
+id int(11) auto increament (primary key)
+username varchar(100)
+fullname varchar(100)
+gender   varchar(10)
+qualification  varchar(32)
+password varchar(32)
